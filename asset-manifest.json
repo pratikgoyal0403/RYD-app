@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/RYD-app/static/css/main.72799fad.chunk.css",
-    "main.js": "/RYD-app/static/js/main.0dc06b5e.chunk.js",
-    "main.js.map": "/RYD-app/static/js/main.0dc06b5e.chunk.js.map",
+    "main.js": "/RYD-app/static/js/main.191f7601.chunk.js",
+    "main.js.map": "/RYD-app/static/js/main.191f7601.chunk.js.map",
     "runtime-main.js": "/RYD-app/static/js/runtime-main.41ab31a2.js",
     "runtime-main.js.map": "/RYD-app/static/js/runtime-main.41ab31a2.js.map",
-    "static/js/2.d577c393.chunk.js": "/RYD-app/static/js/2.d577c393.chunk.js",
-    "static/js/2.d577c393.chunk.js.map": "/RYD-app/static/js/2.d577c393.chunk.js.map",
+    "static/js/2.e04f68ac.chunk.js": "/RYD-app/static/js/2.e04f68ac.chunk.js",
+    "static/js/2.e04f68ac.chunk.js.map": "/RYD-app/static/js/2.e04f68ac.chunk.js.map",
     "index.html": "/RYD-app/index.html",
-    "precache-manifest.d8acac7e5cc21abfd1fec5c240f56080.js": "/RYD-app/precache-manifest.d8acac7e5cc21abfd1fec5c240f56080.js",
+    "precache-manifest.f3e6525b893a1dd8da31f1ca448641c9.js": "/RYD-app/precache-manifest.f3e6525b893a1dd8da31f1ca448641c9.js",
     "service-worker.js": "/RYD-app/service-worker.js",
     "static/css/main.72799fad.chunk.css.map": "/RYD-app/static/css/main.72799fad.chunk.css.map",
-    "static/js/2.d577c393.chunk.js.LICENSE.txt": "/RYD-app/static/js/2.d577c393.chunk.js.LICENSE.txt"
+    "static/js/2.e04f68ac.chunk.js.LICENSE.txt": "/RYD-app/static/js/2.e04f68ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.41ab31a2.js",
-    "static/js/2.d577c393.chunk.js",
+    "static/js/2.e04f68ac.chunk.js",
     "static/css/main.72799fad.chunk.css",
-    "static/js/main.0dc06b5e.chunk.js"
+    "static/js/main.191f7601.chunk.js"
   ]
 }
