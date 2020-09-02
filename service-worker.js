@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RYD-app/precache-manifest.f3e6525b893a1dd8da31f1ca448641c9.js"
+  "/RYD-app/precache-manifest.b12fb9ae765f90199a82a7b0ed665d75.js"
 );
 
 self.addEventListener('message', (event) => {
